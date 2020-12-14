@@ -12,6 +12,7 @@ The Collection of some repo/codes worked on Xavier
 # Before Working
 run the command below to turn on the fan 
 > sudo nvpmodel -m 0
+
 > sudo jetson_clocks
 
 # Blog
