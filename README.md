@@ -4,11 +4,11 @@ The Collection of some repo/codes worked on Xavier
 # Version
 |  环境   | 版本   |
 |  ----  | ----  |
-|Ubuntu  | 18.04 |
-|CUDA    | 10.2  |
+|ubuntu  | 18.04 |
+|cuda    | 10.2  |
 |cuDNN   |  8.0  |
-|TensorRT| 7.1   |
-|OpenCV  | 4.1.1 |
+|tensorRT| 7.1   |
+|openCV  | 4.1.1 |
 |python3 | 3.6.9 |
 |python2 | 2.7.17|
 |pyTorch | --- |
