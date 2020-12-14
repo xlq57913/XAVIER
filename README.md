@@ -7,6 +7,7 @@ The Collection of some repo/codes worked on Xavier
 |CUDA    | 10.2  |
 |cuDNN   |  8.0  |
 |TensorRT| 7.1   |
+|OpenCV  | 4.1.1 |
 
 # Blog
 * [刷机](https://blog.csdn.net/qq_38679413/article/details/109398853)
