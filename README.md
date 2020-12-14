@@ -1,13 +1,16 @@
 # XAVIER
 The Collection of some repo/codes worked on Xavier
 
-# 配置
+# Version
 |  环境   | 版本   |
 |  ----  | ----  |
+|Ubuntu  | 18.04 |
 |CUDA    | 10.2  |
 |cuDNN   |  8.0  |
 |TensorRT| 7.1   |
 |OpenCV  | 4.1.1 |
+|python3 | 3.6.9 |
+|python2 | 2.7.17|
 
 # Before Working
 run the command below to turn on the fan 
