@@ -11,8 +11,8 @@ The Collection of some repo/codes worked on Xavier
 |openCV  | 4.1.1 |
 |python3 | 3.6.9 |
 |python2 | 2.7.17|
-|pyTorch | --- |
-|torchVision| --- |
+|pyTorch | 1.7.0 |
+|torchVision| 2.2.0 |
 # Before Working
 run the command below to turn on the fan 
 > sudo nvpmodel -m 0
