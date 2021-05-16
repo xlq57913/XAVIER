@@ -5,6 +5,7 @@ The Collection of some repo/codes worked on Xavier
 |  环境   | 版本   |
 |  ----  | ----  |
 |ubuntu  | 18.04 |
+|jetPack | 4.4   |
 |cuda    | 10.2  |
 |cuDNN   |  8.0  |
 |tensorRT| 7.1   |
