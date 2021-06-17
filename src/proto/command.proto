@@ -1,0 +1,27 @@
+syntax = "proto2";
+
+message carCommand{
+    required float velocity = 1;
+    required float degree = 2;
+}
+
+message cameraCommand{
+    required float up = 1;
+    required float right = 2;
+}
+
+message lightCommand{
+    required bool on = 1;
+}
+
+message armCommand{
+    required bool goUp = 1;
+    required bool goDown = 2;
+}
+
+message command{
+    required carCommand car = 1;
+    required cameraCommand camera = 2;
+    required armCommand arm = 3;
+    required lightCommand light = 4;
+}

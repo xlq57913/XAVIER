@@ -1,0 +1,6 @@
+syntax = "proto2";
+
+message message_detection{
+    required string result = 1;
+}
+

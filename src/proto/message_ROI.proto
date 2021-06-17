@@ -1,0 +1,11 @@
+syntax = "proto2";
+
+message point {
+    required uint32 width = 1;
+    required uint32 height = 2;
+}
+
+message message_ROI{
+    repeated point ROI_points = 1;
+}
+

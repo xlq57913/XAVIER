@@ -14,12 +14,21 @@ The Collection of some repo/codes worked on Xavier
 |python2 | 2.7.17|
 |pyTorch | 1.7.0 |
 |torchVision| 2.2.0 |
+
+# WIFI setup
+run the following commands to enable the WIFI module (after restart), sometimes the first one will work.
+
+```shell
+sudo usb_modeswitch −KW −v 0bda −p 1a2b
+sudo usb_modeswitch −KW −v 0bda −p b711
+```
 # Before Working
 run the command below to turn on the fan 
-> sudo nvpmodel -m 0
 
-> sudo jetson_clocks
-
+```shell
+sudo nvpmodel -m 0
+sudo jetson_clocks
+```
 # Blog
 * [刷机](https://blog.csdn.net/qq_38679413/article/details/109398853)
 * [pytorch](https://www.jianshu.com/p/9e9c74834283)

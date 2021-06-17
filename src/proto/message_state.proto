@@ -1,0 +1,15 @@
+syntax = "proto2";
+
+message cameraState{
+    required float horizontalDegree = 1;
+    required float verticalDegree = 2;
+}
+
+message armState{
+    required float armDegree = 1;
+}
+
+message message_state{
+    required cameraState camera = 1;
+    required armState arm = 2;
+}

@@ -1,0 +1,8 @@
+syntax = "proto2";
+
+message message_image {
+    required uint32 width = 1;
+    required uint32 height = 2;
+    required bytes image_data = 3;
+}
+
